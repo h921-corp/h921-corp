@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+<hr>
+I'm currently a student learning Java, JavaScript, CSS, HTML, and SQL
+<br>
+If i have any interesting projects, you can find them here,
 <!--
 **h921-corp/h921-corp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
