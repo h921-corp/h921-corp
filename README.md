@@ -4,10 +4,10 @@ I'm currently a student learning Java, JavaScript, CSS, HTML, and SQL
 <br><br>
 If i have any interesting projects, you can find them here.
 <hr>
-My IDE's:
-  Java: IntelliJ
-  JavaScript, CSS, HTML: WebStorm, Visual Studio Code
-  SQL: Microsoft Access (not sure if it counts as an IDE but fuck yeah)
+My IDE's:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Java: IntelliJ<br>
+&nbsp;&nbsp;&nbsp;&nbsp;JavaScript, CSS, HTML: WebStorm, Visual Studio Code<br>
+&nbsp;&nbsp;&nbsp;&nbsp;SQL: Microsoft Access (not sure if it counts as an IDE but fuck yeah)<br>
 
 <hr>
 
