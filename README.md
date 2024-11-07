@@ -1,8 +1,8 @@
 ## Hi there 👋
 <hr>
-I'm currently a student learning Java, JavaScript, CSS, HTML, and SQL
+I'm currently a student learning Java, JavaScript, CSS, HTML, PHP and SQL
 <br><br>
-If i have any interesting projects, you can find them here.
+If I have any interesting projects, you can find them here.
 <hr>
 My IDE's:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Java: IntelliJ<br>
