@@ -1,12 +1,13 @@
 ## Hi there 👋
 <hr>
-I'm currently a student learning Java, JavaScript, CSS, HTML, PHP and SQL
+I'm currently a student learning Java, JavaScript, CSS, HTML, PHP and SQL<br>
+Oh and i also like making malware
 <br><br>
 If I have any interesting projects, you can find them here.
 <hr>
 My IDE's:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Java: IntelliJ<br>
-&nbsp;&nbsp;&nbsp;&nbsp;JavaScript, CSS, HTML: WebStorm, Visual Studio Code<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Java: EclipseIDE<br>
+&nbsp;&nbsp;&nbsp;&nbsp;JavaScript, CSS, HTML: Visual Studio Code<br>
 &nbsp;&nbsp;&nbsp;&nbsp;SQL: Microsoft Access (not sure if it counts as an IDE but fuck yeah)<br>
 
 <hr>
