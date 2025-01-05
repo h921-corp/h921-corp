@@ -1,14 +1,12 @@
-## Hi there 👋
+## hello everybody my name isnt markiplier and welcome back to my profile
 <hr>
 I'm currently a student learning Java, JavaScript, CSS, HTML, PHP and SQL<br>
 Oh and i also like making malware
-<br><br>
-If I have any interesting projects, you can find them here.
 <hr>
 My IDE's:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Java: EclipseIDE<br>
-&nbsp;&nbsp;&nbsp;&nbsp;JavaScript, CSS, HTML: Visual Studio Code<br>
-&nbsp;&nbsp;&nbsp;&nbsp;SQL: Microsoft Access (not sure if it counts as an IDE but fuck yeah)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Java: SUSide<br>
+&nbsp;&nbsp;&nbsp;&nbsp;JavaScript, CSS, HTML, PHP: SUSide<br>
+&nbsp;&nbsp;&nbsp;&nbsp;SQL: SUSide<br>
 
 <hr>
 
